@@ -1,0 +1,43 @@
+{
+    "name": "MemoryGarden",
+    "icons": [
+        {
+            "src": "/img/icons/android-chrome-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/icons/android-chrome-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/img/icons/apple-touch-icon-160x160.png",
+            "type": "image/png",
+            "sizes": "160x160"
+        },
+        {
+            "src": "/img/icons/apple-touch-icon.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "/img/icons/msapplication-icon-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/img/icons/mstile-icon-150x150.png",
+            "type": "image/png",
+            "sizes": "150x150"
+        },
+        {
+            "src": "/img/icons/safari-pinned-tab.svg",
+            "type": "image/svg",
+            "sizes": "16x16"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "scope": "/"
+}
