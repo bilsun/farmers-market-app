@@ -1,4 +1,8 @@
-# error-undefined-project
+# Ithaca Farmer's Market Web App
+
+Final team project for INFO 4340: User Experience and Software Development Studio with Cornell Computing and Information Science
+
+Link to web app: https://error-undefined-project.herokuapp.com/
 
 ## Table of Contents
 - [Team Contract](documents/team-contract.md)
@@ -35,8 +39,6 @@
     - Organized pseudocode and schedule to reflect most recent changes
 
 - [Milestone 5](documents/milestone-5.md)
-
-- URL of app: https://error-undefined-project.herokuapp.com/
 
 <!-- ## Project setup
 ```
