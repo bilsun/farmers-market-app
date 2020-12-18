@@ -1,6 +1,6 @@
 # Ithaca Farmer's Market Web App
 
-Final team project for INFO 4340: User Experience and Software Development Studio with Cornell Computing and Information Science
+Final team project for INFO 4340: User Experience and Software Development Studio with Cornell Computing and Information Science (CIS)
 
 Link to web app: https://error-undefined-project.herokuapp.com/
 
